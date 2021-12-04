@@ -3,7 +3,6 @@ from dash import dash_table
 from dash import dcc # dash core components
 from dash import html
 from dash.dependencies import Input, Output
-import dash_pivottable
 
 import pandas as pd
 
